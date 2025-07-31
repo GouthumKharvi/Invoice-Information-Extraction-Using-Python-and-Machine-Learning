@@ -1,0 +1,18 @@
+{
+    "Invoice": {
+        "Invoice Number": "40631256",
+        "Invoice Date": null,
+        "Seller Name": "Gonzales-Callahan",
+        "Seller Address": "USNS Barker",
+        "Seller Tax ID": null,
+        "Client Name": "Russell-Jackson",
+        "Client Address": "3711 Rebecca Lodge Suite 568",
+        "Client Tax ID": null,
+        "IBAN": "GB81YFBP61884065352583"
+    },
+    "Summary": {
+        "VAT": 10.0,
+        "Net worth": 35977.0,
+        "Gross worth": 39575.0
+    }
+}

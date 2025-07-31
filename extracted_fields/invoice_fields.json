@@ -1,0 +1,18 @@
+{
+    "Invoice": {
+        "Invoice Number": null,
+        "Invoice Date": null,
+        "Seller Name": null,
+        "Seller Address": null,
+        "Seller Tax ID": null,
+        "Client Name": null,
+        "Client Address": null,
+        "Client Tax ID": null,
+        "IBAN": "GB13QCQB12342217088974"
+    },
+    "LineItems": [],
+    "Summary": {
+        "VAT": 15953.0,
+        "Gross worth": 2.0
+    }
+}

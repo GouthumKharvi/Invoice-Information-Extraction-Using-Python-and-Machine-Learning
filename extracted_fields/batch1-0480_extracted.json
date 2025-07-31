@@ -1,0 +1,18 @@
+{
+    "Invoice": {
+        "Invoice Number": "99214533",
+        "Invoice Date": "05/25/2017",
+        "Seller Name": "Burns, Padilla and Daniels",
+        "Seller Address": "10839 Cassandra Mill Suite 967",
+        "Seller Tax ID": null,
+        "Client Name": "Tapia-Warren",
+        "Client Address": "342 Gordon Wall",
+        "Client Tax ID": null,
+        "IBAN": "GBO50DWQ99672274091269"
+    },
+    "Summary": {
+        "VAT": 10.0,
+        "Net worth": null,
+        "Gross worth": 9.0
+    }
+}

@@ -1,0 +1,39 @@
+Invoice no: 65981953
+
+Date of issue:
+
+Seller:
+
+Horton LLC
+44374 Watkins Points
+Norriston, IL 77707
+
+05/14/2020
+
+Client:
+
+Jackson-Holland
+167 Howard Place Suite 420
+Gordonville, NM 91832
+
+Tax Id: 932-86-9428
+IBAN: GB9OSKPB52785824368203
+
+Tax Id: 978-99-3941
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+ils iBUYPOWER Gaming Computer 1,00 each 509,95 509,95 10% 560,95
+AMD Ryzen 3 3100, Radeon RX
+550, 240GB SSD, WiFi Ready
+2. Dell Desktop Computer PC Core 1,00 each 124,95 124,95 10% 137,45
+i5 3.1GHz 8GB RAM 500GB HD
+Wifi DVD Windows 10
+2 HP 8300 Slim Desktop Small 3,00 each 99,99 299,97 10% 329,97
+Computer PC i5 3.2GHz 4GB
+500GB Windows 10 Pro WiFi
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 934,87 93,49 1 028,36
+Total $ 934,87 $ 93,49 $ 1 028,36

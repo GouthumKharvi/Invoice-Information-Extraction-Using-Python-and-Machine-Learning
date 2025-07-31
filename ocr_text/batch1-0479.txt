@@ -1,0 +1,46 @@
+Invoice no: 69721323
+
+Date of issue:
+
+Seller:
+
+Murray-Eaton
+773 Joseph Plains
+West Nicoleville, AZ 46136
+
+Tax Id: 936-71-8228
+
+05/07/2019
+
+Client:
+
+Cuevas, Reid and Hurst
+98071 Daniel Heights
+Careyside, MS 59400
+
+Tax Id: 949-88-4885
+
+IBAN: GB22XZGA27411153163644
+
+ITEMS
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+ils Tie Dyeing Fluffy Rugs Anti-Skid 4,00 each 25,48 101,92 10% 112,11
+Area Rug Dining Room Carpet
+Floor Bedroom Mat
+2. Galaxy Butterfly Area Rugs 2,00 each 13,69 27,38 10% 30,12
+Children Bedroom Non-Slip
+Doormat Floor Mat Carpet
+oo Colorful Marble Printed Living 2,00 each 12,49 24,98 10% 27,48
+Room and Bedroom Area Rugs
+Carpet CNK2413
+4. Red Traditional Oriental 4,00 each 39,98 159,92 10% 175,91
+Medallion 8x10 Area Rug Carpet
+2x3 Mat 5x7 Rugs
+Dy YILONG 2.5'x4' Small Hand 4,00 each 2 000,00 8 000,00 10% 8 800,00
+Knotted Silk Carpets Antistatic
+Floor Area Rug 844B
+SUMMARY
+VAT [%] Net worth VAT Gross worth
+10% 8 314,20 831,42 9 145,62
+Total $ 8 314,20 $ 831,42 $9 145,62
