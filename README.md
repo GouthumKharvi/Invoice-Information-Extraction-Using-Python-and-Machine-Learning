@@ -57,7 +57,7 @@ Invoice-Information-Extraction/
 | Programming Language  | Python                                                 |
 | Data Parsing          | `json`, `re`, `os`                                     |
 | Data Manipulation     | `pandas`, `numpy`                                      |
-| Machine Learning      | `scikit-learn` (Logistic Regression, SVM, etc.)        |
+| Machine Learning      | `scikit-learn` (Logistic Regression, spacy NER model, etc.)        |
 | Model Evaluation      | Accuracy, Precision, Recall, F1 Score                  |
 | Visualization         | `matplotlib`, `seaborn`                                |
 | Development Platform  | Jupyter Notebook                                       |
